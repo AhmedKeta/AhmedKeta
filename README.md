@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd ElKader</h1>
 <h3 align="center">A passionate full-stack developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedketa" alt="ahmedketa" /></a> </p>
-
 📞 **Contact:** 
 +20 1013778108 | [Email](mailto:ahmed.mohamed.abdelkader1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-abd-el-kader/) | [GitHub](https://github.com/AhmedKeta)
 
