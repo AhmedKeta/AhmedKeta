@@ -6,8 +6,8 @@
     <td><strong>Phone:</strong> <a href="tel:+201013778108">+20 1013778108</a></td>
   </tr>
   <tr>
-    <td><strong>LinkedIn:</strong> <a href="#">linkedin.com/in/yourprofile</a></td>
-    <td><strong>GitHub:</strong> <a href="#">github.com/yourprofile</a></td>
+    <td><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ahmed-abd-el-kader/">linkedin.com/in/ahmed-abd-el-kader/</a></td>
+    <td><strong>GitHub:</strong> <a href="https://github.com/AhmedKeta">github.com/AhmedKeta</a></td>
   </tr>
 </table>
 
